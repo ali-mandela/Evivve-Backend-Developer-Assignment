@@ -6,4 +6,5 @@
 ### npm start
 
 For Testing part i have used POSTMAN. 
+documentation for API is here : https://documenter.getpostman.com/view/21999603/2s9Ykq6fww
 
